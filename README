@@ -1,6 +1,8 @@
 ofxparse
 ========
 
+[![Build Status](https://travis-ci.org/jseutter/ofxparse.png)](https://travis-ci.org/jseutter/ofxparse)
+
 ofxparse is a parser for Open Financial Exchange (.ofx) format files.  OFX files
 are available from almost any online banking site, so they work well if you
 want to pull together your finances from multiple sources.  Online trading accounts
